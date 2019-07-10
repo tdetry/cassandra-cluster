@@ -1,3 +1,8 @@
+# Run Cassandra cluster on GCP using VM (no k8s)
+'''sh
+gcloud-start-cluster.sh
+'''
+
 # Run a Cassandra node in a Docker container
 run a standalone container with the following command (_replace /persistent/local/storage with an existing local path_)
 
